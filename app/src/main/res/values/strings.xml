@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BusCheck</string>
+    <string name="choose_start">选择始发地</string>
+    <string name="anfu">安福</string>
+    <string name="pengnan">蓬南</string>
+    <string name="start_bus">开始出发</string>
+    <string name="add_passanger">添加乘客</string>
+    <string name="todayIncome">今日收入</string>
+    <string name="finish">结束本次跟车</string>
+    <string name="price">单价</string>
+    <string name="num">人数</string>
+    <string name="shouldGet">应收</string>
+    <string name="realGet">实收</string>
+    <string name="handIn">收入</string>
+    <string name="handOut">找补</string>
+    <string name="addFinish">完成添加</string>
+</resources>
